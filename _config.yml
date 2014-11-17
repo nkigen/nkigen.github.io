@@ -13,8 +13,8 @@ url: http://nkigen.github.io
 harmony:
   name: Nelson Kigen
   # Little description about your site
-description: Nelson Kigen, Graduate Student and Hacker(sort of).
-  meta_description: Psenjen Nelson Kigen.
+description: Nelson Kigen, Graduate Student and Hacker(sort of)
+  meta_description: Psenjen Nelson Kigen
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Gayan Virajith
