@@ -1,7 +1,7 @@
 pygments: true
-permalink: /otter-pop/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git']
-name: "Otter Pop"
-description: "The world's greated jekyll theme"
-url: http://tybenz.com/otter-pop
+name: "Nelson Kigen"
+description: "Personal Site"
+url: http://nkigen.github.io
