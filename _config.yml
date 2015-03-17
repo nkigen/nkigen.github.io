@@ -3,5 +3,5 @@ permalink: /:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git']
 name: "Nelson Kigen"
-description: "Personal Site"
+description: "Nelson Kigen"
 url: http://nkigen.github.io
