@@ -1,28 +1,25 @@
 ---
 layout: post
-title: Test
+title: Another Attempt
 ---
 
-Blogging is fun!
+This is yet another attempt at keeping(actively) a blog.
 
-Here's what code looks like with the otter pop theme:
+My posts will revolve around:
 
-{% highlight javascript %}
-var foo = 'bar';
-{% endhighlight %}
+- The awesome Linux kernel
+- The interesting world of Embedded Systems
+- Formal Methods(I'm still new to this field)
+- Android development
 
-Here's a blockquote:
+Also,
 
-> This is a blockquote from a famous and influential hacker
+- Bash scripting
+- C/C++ and Java Programming
 
-Here is some lists:
+and
 
-- first
-- second
-- third
+- Other potentially useless stuff
 
-and another:
-
-1. first
-2. second
-3. third
+> "Do or DO NOT, there is no try"
+> 	Yoda(not so long ago)
