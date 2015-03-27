@@ -28,7 +28,7 @@ tried it with Ubuntu 14.04 Server Edition).
 {% endhighlight %}
 
 - Edit package.json file as follows:  
-	-Use brypt version 0.8.1  
+  - Use brypt version 0.8.1  
 
 - On the root directory of the surespot server(&lt;PATH_TO_SERVER&gt;/web-server) run  
 
