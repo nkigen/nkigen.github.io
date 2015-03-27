@@ -27,7 +27,7 @@ sudo apt-get install redis-server
 npm install -g coffee-script@1.6.3
 {% endhighlight %}
 
-- On the root directory of the surespot server8(<PATH_TO_SERVER>/web-server) run  
+- On the root directory of the surespot server(&lt;PATH_TO_SERVER&lt;/web-server) run  
 
 {% highlight bash %}
 npm install
