@@ -13,8 +13,8 @@ tried it with Ubuntu 14.04 Server Edition).
 
 - Download the Surespot web-server code from [github](https://github.com/surespot/web-server).  
 - Install [Cassandra](http://en.wikipedia.org/wiki/Apache_Cassandra) and [Redis](http://en.wikipedia.org/wiki/Redis) database servers.  
-  -To install the DataStax's Cassandra 2.0 , follow the folowwing [instructions](https://www.datastax.com/documentation/cassandra/2.0/cassandra/install/installDeb_t.html)  
-  -Install Redis server using apt-get:
+  - To install the DataStax's Cassandra 2.0 , follow the folowwing [instructions](https://www.datastax.com/documentation/cassandra/2.0/cassandra/install/installDeb_t.html)  
+  - Install Redis server using apt-get:
 {% highlight bash %}
 	sudo apt-get install redis-server
 {% endhighlight %}
@@ -44,7 +44,7 @@ This will install the dependencies for the project.
 	cqlsh -f server/cassandra_setup localhost
 {% endhighlight %}
 
-- Now create the following directories
-	-"ecLocal" and "logs" directory on "web-server/server". In the "logs" directory, create "surespot.log" file  
-	-"sslLocal" in "web-server" directory
+- Now create the following directories  
+  - "ecLocal" and "logs" directory on "web-server/server". In the "logs" directory, create "surespot.log" file  
+  - "sslLocal" in "web-server" directory  
 
