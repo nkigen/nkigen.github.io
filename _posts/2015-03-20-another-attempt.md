@@ -9,7 +9,7 @@ My posts will revolve around:
 
 - The awesome Linux kernel
 - The interesting world of Embedded Systems
-- The logically sufficient Formal Methods(I'm still new to this field)
+- The logically sufficient world of Formal Methods(I'm still new to this field though)
 - Android development
 
 Also,
