@@ -14,6 +14,6 @@ tried it with Ubuntu 14.04 Server Edition).
 1. Install [Cassandra](http://en.wikipedia.org/wiki/Apache_Cassandra) and [Redis](http://en.wikipedia.org/wiki/Redis) database servers.  
   -To install the DataStax's Cassandra 2.0 , follow the folowwing [instructions](https://www.datastax.com/documentation/cassandra/2.0/cassandra/install/installDeb_t.html)
   -Install Redis server using apt-get:
-{% highlight javascript %}
+{% highlight bash %}
 sudo apt-get install redis-server
 {% endhighlight %}
