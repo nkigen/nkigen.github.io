@@ -44,3 +44,7 @@ This will install the dependencies for the project.
 	cqlsh -f server/cassandra_setup localhost
 {% endhighlight %}
 
+- Now create the following directories
+	-"ecLocal" and "logs" directory on "web-server/server". In the "logs" directory, create "surespot.log" file  
+	-"sslLocal" in "web-server" directory
+
