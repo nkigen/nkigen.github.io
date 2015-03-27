@@ -19,7 +19,7 @@ tried it with Ubuntu 14.04 Server Edition).
 sudo apt-get install redis-server
 {% endhighlight %}
 
-- Next you have to install Node.js, npm and CoffeeScript. The version that worked for me were 0.10.18, 1.3.8 and 1.6.3 respectively  
+- Next you have to install Node.js, npm and CoffeeScript. The versions that worked for me were 0.10.18, 1.3.8 and 1.6.3 respectively  
   -Install Node.js and npm by following the steps from [here](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server).  
   -Next use npm to install Node version manager and then using the node version manager, change to version 0.10.18. The steps are available [here](https://www.npmjs.com/package/n)  
   - Install Coffescript using npm  
@@ -27,7 +27,7 @@ sudo apt-get install redis-server
 npm install -g coffee-script@1.6.3
 {% endhighlight %}
 
-- On the root directory of the surespot server(&lt;PATH_TO_SERVER&lt;/web-server) run  
+- On the root directory of the surespot server(&lt;PATH_TO_SERVER&gt;/web-server) run  
 
 {% highlight bash %}
 npm install
