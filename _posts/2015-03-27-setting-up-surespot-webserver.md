@@ -20,8 +20,8 @@ tried it with Ubuntu 14.04 Server Edition).
 {% endhighlight %}
 
 - Next you have to install Node.js, npm and CoffeeScript. The versions that worked for me were 0.10.18, 1.3.8 and 1.6.3 respectively  
-  -Install Node.js and npm by following the steps from [here](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server).  
-  -Next use npm to install Node version manager and then using the node version manager, change to version 0.10.18. The steps are available [here](https://www.npmjs.com/package/n)  
+  - Install Node.js and npm by following the steps from [here](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server).  
+  - Next use npm to install Node version manager and then using the node version manager, change to version 0.10.18. The steps are available [here](https://www.npmjs.com/package/n)  
   - Install Coffescript using npm  
 {% highlight bash %}
 	npm install -g coffee-script@1.6.3
