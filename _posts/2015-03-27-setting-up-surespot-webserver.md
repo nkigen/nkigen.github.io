@@ -13,7 +13,7 @@ tried it with Ubuntu 14.04 Server Edition).
 
 - Download the Surespot web-server code from [github](https://github.com/surespot/web-server).  
 - Install [Cassandra](http://en.wikipedia.org/wiki/Apache_Cassandra) and [Redis](http://en.wikipedia.org/wiki/Redis) database servers.  
-  - To install the DataStax's Cassandra 2.0 , follow the folowwing [instructions](https://www.datastax.com/documentation/cassandra/2.0/cassandra/install/installDeb_t.html)  
+  - To install the DataStax's Cassandra 2.0 , follow these [instructions](https://www.datastax.com/documentation/cassandra/2.0/cassandra/install/installDeb_t.html)  
   - Install Redis server using apt-get:
 {% highlight bash %}
 	sudo apt-get install redis-server
@@ -22,7 +22,7 @@ tried it with Ubuntu 14.04 Server Edition).
 - Next you have to install Node.js, npm and CoffeeScript. The versions that worked for me were 0.10.18, 1.3.8 and 1.6.3 respectively  
   - Install Node.js and npm by following the steps from [here](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server).  
   - Next use npm to install Node version manager and then using the node version manager, change to version 0.10.18. The steps are available [here](https://www.npmjs.com/package/n)  
-  - Install Coffescript using npm  
+  - Install CoffeeScript using npm  
 {% highlight bash %}
 	npm install -g coffee-script@1.6.3
 {% endhighlight %}
