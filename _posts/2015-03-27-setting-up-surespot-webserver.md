@@ -11,6 +11,7 @@ In this post, I'll describe a step-by-step procedure for setting up the Surespot
 tried it with Ubuntu 14.04 Server Edition).
 
 
+- Download the Surespot web-server code from [github](https://github.com/surespot/web-server).  
 - Install [Cassandra](http://en.wikipedia.org/wiki/Apache_Cassandra) and [Redis](http://en.wikipedia.org/wiki/Redis) database servers.  
   -To install the DataStax's Cassandra 2.0 , follow the folowwing [instructions](https://www.datastax.com/documentation/cassandra/2.0/cassandra/install/installDeb_t.html)  
   -Install Redis server using apt-get:
@@ -26,7 +27,7 @@ sudo apt-get install redis-server
 npm install -g coffee-script@1.6.3
 {% endhighlight %}
 
-- Now download the Surespot web-server code from [github](https://github.com/surespot/web-server). On the root directory(.../web-server) run  
+- On the root directory of the surespot server8(<PATH_TO_SERVER>/web-server) run  
 
 {% highlight bash %}
 npm install
