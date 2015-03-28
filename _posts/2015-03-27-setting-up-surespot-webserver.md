@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting Up Surespot Server on Ubuntu 14.04
+comments: true
 ---
 
 [Surespot](https://www.surespot.me/) is a relatively new Open Source instant messaging app thats fully
