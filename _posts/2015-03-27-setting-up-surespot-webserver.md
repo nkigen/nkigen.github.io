@@ -48,3 +48,14 @@ This will install the dependencies for the project.
   - "ecLocal" and "logs" directory on "web-server/server". In the "logs" directory, create "surespot.log" file  
   - "sslLocal" in "web-server" directory  
 
+- In the "ecLocal" directory using openSSL generate priv.pem file
+
+- In the "sslLocal" directory generate surespot.{crt,csr,key} files  
+
+- Set the environmental variables and then start the server.  
+
+
+{% highlight bash %}
+	coffee cluster.coffee
+{% endhighlight %}
+
