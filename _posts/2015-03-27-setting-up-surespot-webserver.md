@@ -57,5 +57,52 @@ This will install the dependencies for the project.
 
 {% highlight bash %}
 	coffee cluster.coffee
-{% endhighlight %}
+{% endhighlight %}  
 
+The following is an example of the environmental variables to be set  
+
+{% highlight bash %}
+export SURESPOT_RATE_LIMITING_MESSAGE=false
+export SURESPOT_RATE_LIMIT_SECS_MESSAGE=10
+export SURESPOT_RATE_LIMIT_RATE_MESSAGE=100
+export SURESPOT_RATE_LIMIT_BUCKET_MESSAGE=5
+
+export SURESPOT_CORES=1
+export SURESPOT_MESSAGES_PER_USER=10
+
+export SURESPOT_DEBUG_LEVEL="debug"
+export SURESPOT_DB=0
+export SURESPOT_SOCKET=8080
+export SURESPOT_ENV="Local"
+export SURESPOT_GOOGLE_API_KEY=""
+export SURESPOT_RACKSPACE_API_KEY=""
+export SURESPOT_RACKSPACE_IMAGE_CDN_URL="gateway.sandbox.push.apple.com"
+export SURESPOT_RACKSPACE_IMAGE_CONTAINER="imeage"
+export SURESPOT_RACKSPACE_VOICE_CDN_URL="gateway.sandbox.push.apple.com"
+export SURESPOT_RACKSPACE_VOICE_CONTAINER="voice"
+export SURESPOT_RACKSPACE_USERNAME=""
+export SURESPOT_SESSION_SECRET="+2blji1neE7MZQT+hw="
+
+#export SURESPOT_REDIS_SENTINEL_PORT=26379
+#export SURESPOT_REDIS_SENTINEL_HOSTNAME="127.0.0.1"
+
+export SURESPOT_REDIS_SENTINEL_PORT=6379
+export SURESPOT_REDIS_SENTINEL_HOSTNAME="127.0.0.1"
+
+export SURESPOT_DONT_USE_SSL="true"
+
+export SURESPOT_GOOGLE_CLIENT_ID=""
+export SURESPOT_GOOGLE_CLIENT_SECRET=""
+export SURESPOT_GOOGLE_REDIRECT_URL=""
+
+export SURESPOT_TEST_BASEURI="http://127.0.0.1:8080"
+export SURESPOT_TEST_CLEANDB="true"
+
+export SURESPOT_GOOGLE_OAUTH2_CODE="670969345590"
+
+export SURESPOT_USE_REDIS_SENTINEL="false"
+export SURESPOT_APN_GATEWAY="gateway.sandbox.push.apple.com"
+export SURESPOT_IAP_SECRET=""
+
+export SURESPOT_CASSANDRA_IPS="127.0.0.1"
+{% endhighlight %}  
