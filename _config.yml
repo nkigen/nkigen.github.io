@@ -1,6 +1,7 @@
 pygments: true
 permalink: /:year/:month/:day/:title
 markdown: rdiscount
+comments: true
 exclude: ['.git']
 name: "Nelson Kigen"
 description: "Nelson Kigen"
