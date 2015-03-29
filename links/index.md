@@ -4,15 +4,15 @@ title: Interesting Links
 ---
 
 
-> The Good
+> "The Good"
 
 - <a href="http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719"  target="_blank">Getting Things Done</a>  
 
-> The Bad
+> "The Bad"
 
 - <a href="http://stephenramsay.us/2011/04/09/life-on-the-command-line/" target="_blank">Life on the Command Line</a> 
 
-> The Ugly
+> "The Ugly"
 
 - <a href="http://duplicity.nongnu.org/"  target="_blank">Duplicity Remote File Back-up</a>
 
