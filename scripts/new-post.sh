@@ -6,16 +6,23 @@
 # this stuff is worth it, you can buy me a beer in return.   Nelson Kigen
 # ----------------------------------------------------------------------------
 
-
+POST_HOME="../_posts"
 header(){
-echo "---"
-echo "layout: post"
-echo "title: "$1
-echo "---"
+echo "---" > "$2"
+echo "layout: post" >> "$2"
+echo "hidden: true" >> "$2"
+echo "title: "$1 >> "$2"
+echo "---" >> "$2"
+
 }
 
 main(){
-header "$1"
+	DATE=`date +%Y-%m-%d`
+	for word in $1
+		do
+			DATE=${DATE}"-"${word}
+	    done
+	header "$1" $POST_HOME/$DATE".md"
 }
 
 main "$@"
