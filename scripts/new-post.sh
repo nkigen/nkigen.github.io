@@ -8,12 +8,12 @@
 
 POST_HOME="../_posts"
 header(){
-echo "---" > "$2"
-echo "layout: post" >> "$2"
-echo "hidden: true" >> "$2"
-echo "title: "$1 >> "$2"
-echo "---" >> "$2"
-
+	[ -f $2 ] && echo "File Already exists" && exit 1
+	echo "---" > "$2"
+	echo "layout: post" >> "$2"
+	echo "hidden: true" >> "$2"
+	echo "title: "$1 >> "$2"
+	echo "---" >> "$2"
 }
 
 main(){
