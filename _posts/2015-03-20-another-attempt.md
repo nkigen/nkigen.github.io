@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Another Attempt
+comments: true
 ---
 
 This is yet another attempt at keeping(actively) a blog.
