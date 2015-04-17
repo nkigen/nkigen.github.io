@@ -1,6 +1,5 @@
 ---
 layout: post
-hidden: false
 title: run shell scripts from chrome
 ---
 For linux users, it may be interesting to pass data directly from the browser to shell scripts. I've been looking for a way to do
