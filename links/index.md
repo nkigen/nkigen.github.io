@@ -12,6 +12,7 @@ title: Interesting Links
 > "The Bad"
 
 - <a href="http://stephenramsay.us/2011/04/09/life-on-the-command-line/" target="_blank">Life on the Command Line</a> 
+- <a href="http://www.shellcheck.net/"  target="_blank">Static analysis for bash/sh</a>  
 
 > "The Ugly"
 
