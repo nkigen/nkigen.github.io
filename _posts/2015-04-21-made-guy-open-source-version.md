@@ -1,5 +1,5 @@
 ---
 layout: post
 hidden: false
-title: made guy, open source version
+title: made guy: open source version
 ---
