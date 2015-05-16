@@ -19,4 +19,5 @@ title: Interesting Links
 
 - <a href="http://duplicity.nongnu.org/"  target="_blank">Duplicity Remote File Back-up</a>
 - <a href="http://pandoc.org/"  target="_blank">PanDoc-All in one document converter</a>
+- <a href="http://www.snowelm.com/~t/doc/tips/makebib.en.html"  target="_blank">plain text to bibtex</a>
 
