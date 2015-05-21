@@ -10,7 +10,8 @@ and Engineering at the [University of Trento](http://www.unitn.it) and
 My passion revolves around Linux, RealTime Embedded Systems, Formal Methods and
 Android Development including its internals.
 
-Hopefully I'll be starting a PHD this fall on the above topics  
+I'll be starting my PHD this fall at the [Electrical and Computer Engineering](http://ece.ufl.edu) department 
+of [University of Florida](http://www.ufl.edu)
 
 Here is my [PGP Public Key](/doc/nkigen.asc)
 
