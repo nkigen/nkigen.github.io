@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-My name is Nelson Kigen. I am a final year graduate student in Computer Science 
+My name is Nelson Kigen Psenjen. I am a final year graduate student in Computer Science 
 and Engineering at the [University of Trento](http://www.unitn.it) and
 [Scuola Superiore Sant'Anna](http://www.sssup.it) both in Italy.
 
