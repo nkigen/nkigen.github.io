@@ -14,6 +14,7 @@ title: Interesting Links
 - <a href="http://stephenramsay.us/2011/04/09/life-on-the-command-line/" target="_blank">Life on the Command Line</a> 
 - <a href="http://www.shellcheck.net/"  target="_blank">Static analysis for *sh scripts/sh</a>  
 - <a href="http://ubuntuforums.org/showthread.php?t=1725448"  target="_blank">Linux Library Development in C-C++</a>  
+- <a href="http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html" target="_blank">Bootstrap a compiler from nothing</a> 
 
 > "The Ugly"
 
