@@ -15,6 +15,7 @@ title: Interesting Links
 - <a href="http://www.shellcheck.net/"  target="_blank">Static analysis for *sh scripts/sh</a>  
 - <a href="http://ubuntuforums.org/showthread.php?t=1725448"  target="_blank">Linux Library Development in C-C++</a>  
 - <a href="http://homepage.ntlworld.com/edmund.grimley-evans/bcompiler.html" target="_blank">Bootstrap a compiler from nothing</a> 
+- <a href="http://events.linuxfoundation.org/sites/events/files/slides/petazzoni-device-tree-dummies.pdf" target="_blank">Linux Device Tree, for dummies</a> 
 
 > "The Ugly"
 
