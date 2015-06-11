@@ -4,8 +4,8 @@ title: Setting Up Surespot Server on Ubuntu 14.04
 comments: true
 ---
 
-[Surespot](https://www.surespot.me/) is a relatively new Open Source instant messaging app thats fully
-opensource. Therefore both the source codes for the client(Android and iOS) and the Server(Node.js) is
+[Surespot](https://www.surespot.me/) is a relatively new Open Source instant messaging app. 
+Therefore both the source codes for the client(Android and iOS) and the Server(Node.js) is
 available.
 
 In this post, I'll describe a step-by-step procedure for setting up the Surespot server on Ubuntu(I've
