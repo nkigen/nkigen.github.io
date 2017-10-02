@@ -1,4 +1,4 @@
-pygments: true
+highligher: 'rogue'
 permalink: /:year/:month/:day/:title
 comments: true
 exclude: ['.git']
