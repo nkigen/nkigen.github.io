@@ -1,7 +1,4 @@
-# Otter Pop
+# My Page!
 
-The world's greatest Jekyll theme.
 
-Example: <http://tybenz.com>
-
-![](http://jekyllthemes.org/thumbnails/otter-pop.png)
+Based on this great Jekyll [Template](http://tybenz.com)
