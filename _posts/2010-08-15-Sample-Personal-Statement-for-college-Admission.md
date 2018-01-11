@@ -1,0 +1,13 @@
+---
+layout: post
+hidden: true
+title: Sample Personal Statement for college Admission
+---
+
+Knowing how things work has been my interest for a long time now and ever since I joined high school, physics and mathematics have been my favourite subjects. I enjoy applying scientific knowledge in coming up with solutions to everyday challenges and in understanding the principles behind the operations of various engineering inventions. During my second year in high school, even though I had limited knowledge in physics, I was among those who participated in the National Science Congress. This was a forum where high school students showcased their scientific prowess by coming up with projects addressing specific challenges facing our society in general. Even though I did not emerge the winner, it marked a major milestone in my future carrier as it exposed me to the challenges faced by engineers. Currently, I am developing a mobile bus booking system which I hope to submit in one of the exhibitions this year.
+
+My short stint at Strathmore University has enabled me understand the environment in which businesses operate. Studying economics and business management has helped me to understand how engineering has revolutionized both the management and production techniques in today's business environment thanks to the works of among others, Fredrick W. Taylor. Physics and mathematics enables me tackle unfamiliar environments or situations such as computer programming using familiar methods like a step by step approach to coming up with a solution to a problem. Furthermore they both involve new challenges which involves coming up with new ideas everyday!
+
+Besides school, I enjoy playing lawn tennis. During my final year in high school, I was the lawn tennis captain after having won two consecutive school titles. I was also a member of the science and mathematics club for my entire high school life. While a member of the mathematics club, I participated in numerous regional and national mathematics contests and in 2006 and 2007, I was in the team that made our school emerge position two in the national mathematics contest of 2007. Of late, I have been fascinated by the idea of being able to control machines such as computers and this has increased my desires in the field of computing and robotics.
+
+At the moment, I intend to take a degree in Electronic and Computer Engineering which I believe will make me be in a better position to achieve my future goals and aspirations. My interactions with the engineering world has been challenging and inspiring and I hope my future carrier will be no exception.
