@@ -1,8 +1,7 @@
 ---
 layout: post
-hidden: false
-comments: true
 title: Sample Personal Statement for college Admission
+comments: true
 ---
 
 Knowing how things work has been my interest for a long time now and ever since I joined high school, physics and mathematics have been my favourite subjects. I enjoy applying scientific knowledge in coming up with solutions to everyday challenges and in understanding the principles behind the operations of various engineering inventions. During my second year in high school, even though I had limited knowledge in physics, I was among those who participated in the National Science Congress. This was a forum where high school students showcased their scientific prowess by coming up with projects addressing specific challenges facing our society in general. Even though I did not emerge the winner, it marked a major milestone in my future carrier as it exposed me to the challenges faced by engineers. Currently, I am developing a mobile bus booking system which I hope to submit in one of the exhibitions this year.
