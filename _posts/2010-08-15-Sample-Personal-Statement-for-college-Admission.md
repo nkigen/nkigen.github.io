@@ -1,6 +1,6 @@
 ---
 layout: post
-hidden: true
+hidden: false
 title: Sample Personal Statement for college Admission
 ---
 
