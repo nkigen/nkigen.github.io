@@ -8,6 +8,7 @@ title: Interesting Links
 
 - <a href="http://chronicle.com/blogs/profhacker/an-introduction-to-gtd-getting-things-done/22719"  target="_blank">Getting Things Done</a>  
 - <a href="http://www.joereiss.net/geek/geek.html"  target="_blank">How geeky are you</a>  
+- <a href="http://www.newyorker.com/business/currency/fail-fast-fail-often-fail-everywhere"  target="_blank">Fail fast, fail often, fail everywhere</a>  
 
 > "The Bad"
 
