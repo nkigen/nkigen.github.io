@@ -1,6 +1,6 @@
 ---
 layout: post
-hidden: false
+hidden: true
 title: publish-subscribe middleware-architectures
 ---
 
