@@ -1,3 +1,3 @@
-# My Page!
+# NKigne
 
 Based on this great Jekyll [Template](http://tybenz.com)
