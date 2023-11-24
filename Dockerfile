@@ -1,11 +1,20 @@
-# Use an official Nginx image as a base
-FROM nginx:alpine
+# Use a base image with Ruby and Node.js
+FROM ruby:2.7.4
 
-# Copy the static HTML file to the Nginx document root
-COPY index.html /usr/share/nginx/html
+# Set the working directory in the container
+WORKDIR /app
 
-# Expose port 80
+# Copy the Gemfile and Gemfile.lock into the container
+COPY Gemfile Gemfile.lock ./
+
+# Install Jekyll and other dependencies
+RUN gem install bundler && bundle install
+
+# Copy the entire Jekyll app into the container
+COPY . .
+
+# Expose the default Jekyll port
 EXPOSE 80
 
-# Start Nginx when the container launches
-CMD ["nginx", "-g", "daemon off;"]
+# Build the Jekyll site and serve it
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "80"]
