@@ -1,20 +1,20 @@
-# Use a base image with Ruby and Node.js
-FROM ruby:2.7.4
+# Use an official Jekyll image as the base image
+FROM jekyll/jekyll:latest
 
-# Set the working directory in the container
-WORKDIR /app
+# Set the working directory to the Jekyll project root
+WORKDIR /srv/jekyll
 
-# Copy the Gemfile and Gemfile.lock into the container
-COPY Gemfile Gemfile.lock ./
-
-# Install Jekyll and other dependencies
-RUN gem install bundler && bundle install
-
-# Copy the entire Jekyll app into the container
+# Copy the entire project to the working directory
 COPY . .
 
-# Expose the default Jekyll port
+# Install Jekyll and other dependencies
+RUN bundle install
+
+# Build the Jekyll site
+RUN jekyll build
+
+# Expose port 80
 EXPOSE 80
 
-# Build the Jekyll site and serve it
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "80"]
+# Command to run the Jekyll site on port 80
+CMD ["jekyll", "serve", "--host", "0.0.0.0", "--port", "80"]
