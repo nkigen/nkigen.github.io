@@ -1,6 +1,8 @@
 # Use an official Jekyll image as the base image
 FROM jekyll/builder:latest
 
+RUN groupadd -r user && useradd -r -g user user
+USER user
 # Set the working directory to the Jekyll project root
 WORKDIR /srv/jekyll
 
