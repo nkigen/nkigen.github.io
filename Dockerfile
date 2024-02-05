@@ -10,6 +10,7 @@ COPY . .
 # Install Jekyll and other dependencies
 RUN bundle install
 
+RUN chmod u+w /srv/jekyll
 # Build the Jekyll site
 RUN jekyll build
 
