@@ -30,6 +30,8 @@ RUN jekyll build
 
 # Set up Nginx to serve the built Jekyll site
 FROM nginx:alpine
+USER nobody
+
 COPY --from=0 /srv/jekyll/_site /usr/share/nginx/html
 
 # Expose port 80
