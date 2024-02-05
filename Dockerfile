@@ -20,6 +20,7 @@ COPY . .
 # Add /root/.local/share/gem/ruby/3.1.0/bin to path
 ENV PATH="/root/.local/share/gem/ruby/3.1.0/bin:${PATH}"
 
+USER nobody
 RUN gem install bundler --user-install
 
 # Install Jekyll and other dependencies
