@@ -8,6 +8,20 @@ WORKDIR /srv/jekyll
 COPY . .
 
 RUN gem install bundler --user-install
+# Use an official Jekyll image as the base image
+FROM jekyll/builder:latest
+
+# Set the working directory to the Jekyll project root
+WORKDIR /srv/jekyll
+
+# Copy the entire project to the working directory
+COPY . .
+
+# Add /root/.local/share/gem/ruby/3.1.0/bin to path
+ENV PATH="/root/.local/share/gem/ruby/3.1.0/bin:${PATH}"
+
+RUN gem install bundler --user-install
+
 # Install Jekyll and other dependencies
 RUN bundle install
 
