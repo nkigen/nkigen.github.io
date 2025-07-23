@@ -18,7 +18,7 @@ A `whoami` endpoint is a public URL (e.g., `/whoami`) on a user's profile that r
 - Trends in topics they interact with  
 - Emotional tone or style of communication  
 - Top projects, collaborators, or interests  
-- Changes over time (e.g.,'Recently focused on LLMs and open-source DevOps'
+- Changes over time (e.g.,'Recently focused on LLMs and open-source DevOps')
 
 This concept pulls inspiration from the classic Unix command `whoami`, which tells you which user is currently logged in. In the social media age, it answers: **'Based on everything I've done here, who does this platform think I am?'**
 
