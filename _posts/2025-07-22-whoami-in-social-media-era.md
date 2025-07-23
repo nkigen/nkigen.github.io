@@ -8,7 +8,7 @@ title: "Whoami in the Social Media Era"
 
 In the age of social platforms and AI, the way we present ourselves online is shifting from curated profiles to dynamic, data-driven identities. Enter the idea of the `whoami` endpoint: a simple, standardized interface that gives a snapshot of a user based on their actual content and activity.
 
-Imagine visiting [https://github.com/nkigen/whoami](`https://github.com/nkigen/whoami`) and seeing not just a bio or pinned repos, but an AI-generated summary of who the user is based on the things they build, star, fork, or write about. Instead of self-written blurbs that are rarely updated or reflect aspirational versions of ourselves, `whoami` endpoints provide an honest and up-to-date description of who we are.
+Imagine visiting [https://github.com/nkigen/whoami](https://github.com/nkigen/whoami) (PS: it wont work now) and seeing not just a bio or pinned repos, but an AI-generated summary of who the user is based on the things they build, star, fork, or write about. Instead of self-written blurbs that are rarely updated or reflect aspirational versions of ourselves, `whoami` endpoints provide an honest and up-to-date description of who we are.
 
 ## What Is a `whoami` Endpoint?
 
