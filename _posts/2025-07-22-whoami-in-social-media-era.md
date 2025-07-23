@@ -12,15 +12,15 @@ Imagine visiting `https://github.com/nkigen/whoami` and seeing not just a bio or
 
 ## What Is a `whoami` Endpoint?
 
-A `whoami` endpoint is a public URL (e.g., `/whoami`) on a user's profile that returns a machine-readable and/or human-readable summary of that person all powered by AI. It could include:
+A `whoami` endpoint is a public URL (e.g., `/whoami`) on a user profile that returns a machine-readable and/or human-readable summary of that person all powered by AI. It could include:
 
 - A short description of what the user does or cares about  
 - Trends in topics they interact with  
 - Emotional tone or style of communication  
 - Top projects, collaborators, or interests  
-- Changes over time (e.g.,'Recently focused on LLMs and open-source DevOps')
+- Changes over time (e.g.,Recently focused on LLMs and open-source DevOps)
 
-This concept pulls inspiration from the classic Unix command `whoami`, which tells you which user is currently logged in. In the social media age, it answers: **'Based on everything I've done here, who does this platform think I am?'**
+This concept pulls inspiration from the classic Unix command `whoami`, which tells you which user is currently logged in. In the social media age, it answers: **Based on everything I have done here, who does this platform think I am?**
 
 ## Why This Matters
 
@@ -31,15 +31,15 @@ This matters because:
 - **Transparency**: It reveals patterns you might not see in yourself.  
 - **Authenticity**: It roots your identity in your actual contributions.  
 - **Interoperability**: Apps, agents, or collaborators could query your `whoami` endpoint to understand your digital personality — enabling smarter interactions.  
-- **Agency**: You can see how you're perceived algorithmically and choose to correct or embrace it.
+- **Agency**: You can see how you are perceived algorithmically and choose to correct or embrace it.
 
 ## What It Could Look Like
 
 Here’s a fictional example of an AI-generated `/whoami` summary:
 
-> 'Nelson is a developer and AI tinkerer, recently focused on social matching algorithms and multi-agent systems. Tends to post in bursts. Curious tone. Engages often with experimental projects in Python, FastAPI, and Kafka. High interest in decentralization and user agency.'
+> Nelson is a developer and AI tinkerer, recently focused on social matching algorithms and multi-agent systems. Tends to post in bursts. Curious tone. Engages often with experimental projects in Python, FastAPI, and Kafka. High interest in decentralization and user agency.
 
-It's not just cool : it’s super useful.
+It is not just cool : it’s super useful.
 
 ## The Future: Standardized, Portable Digital Identity
 
