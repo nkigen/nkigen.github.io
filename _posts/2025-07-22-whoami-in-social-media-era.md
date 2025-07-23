@@ -2,9 +2,8 @@
 layout: post
 hidden: false
 comments: true
-title: "Whoami in the Social Media Era"
+title: "Whoami in Social Media Era"
 ---
-# Whoami in the Social Media Era
 
 In the age of social platforms and AI, the way we present ourselves online is shifting from curated profiles to dynamic, data-driven identities. Enter the idea of the `whoami` endpoint: a simple, standardized interface that gives a snapshot of a user based on their actual content and activity.
 
