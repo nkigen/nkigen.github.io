@@ -8,7 +8,7 @@ title: whoami in social media era
 
 In the age of social platforms and AI, the way we present ourselves online is shifting from curated profiles to dynamic, data-driven identities. Enter the idea of the `whoami` endpoint: a simple, standardized interface that gives a snapshot of a user based on their actual content and activity.
 
-Imagine visiting `https://github.com/nkigen/whoami` and seeing not just a bio or pinned repos, but an AI-generated summary of who the user is — based on the things they build, star, fork, or write about. Instead of self-written blurbs that are rarely updated or reflect aspirational versions of ourselves, `whoami` endpoints provide an honest and up to date description of who we are.
+Imagine visiting `https://github.com/nkigen/whoami` and seeing not just a bio or pinned repos, but an AI-generated summary of who the user is based on the things they build, star, fork, or write about. Instead of self-written blurbs that are rarely updated or reflect aspirational versions of ourselves, `whoami` endpoints provide an honest and up to date description of who we are.
 
 ## What Is a `whoami` Endpoint?
 
@@ -30,7 +30,7 @@ This matters because:
 
 - **Transparency**: It reveals patterns you might not see in yourself.  
 - **Authenticity**: It roots your identity in your actual contributions.  
-- **Interoperability**: Apps, agents, or collaborators could query your `whoami` endpoint to understand your digital personality — enabling smarter interactions.  
+- **Interoperability**: Apps, agents, or collaborators could query your `whoami` endpoint to understand your digital personality nabling smarter interactions.  
 - **Agency**: You can see how you are perceived algorithmically and choose to correct or embrace it.
 
 ## What It Could Look Like
@@ -45,7 +45,7 @@ It is not just cool : it’s super useful.
 
 What if every major social platform supported a `/whoami` endpoint? GitHub, X, LinkedIn each offering its own part of your identity, shaped by your contributions.
 
-Going further, these could be federated and portable. like a universal `whoami.json` similar to `robots.txt` that lives in your personal cloud, constantly updated by AI agents scraping your public activity, which any app can use to understand your personality or preferences — with your permission.
+Going further, these could be federated and portable. like a universal `whoami.json` similar to `robots.txt` that lives in your personal cloud, constantly updated by AI agents scraping your public activity, which any app can use to understand your personality or preferences with your permission.
 
 In a world where digital agents interact on your behalf, your `whoami` endpoint becomes not just a social badge, but a core part of your online identity infrastructure.
 
